@@ -1,4 +1,4 @@
-streamlit==1.26.0    # For creating the web application
-numpy==1.23.5        # For numerical operations
-pandas==2.1.1        # For handling data structures
-pickle5==0.0.12      # For loading the pre-trained model
+streamlit
+numpy
+pandas
+pickle5
