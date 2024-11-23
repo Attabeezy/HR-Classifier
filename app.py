@@ -349,7 +349,7 @@ scenarios = {
 st.set_page_config(page_title="Trait Assessment Quiz", layout="wide")
 
 # Display the landscape image above the title
-st.image("business-meeting.jpg", use_column_width=True)
+st.image("business-meeting.jpg", use_container_width=True)
 
 # Title and header with Markdown
 st.title("🎯 Trait Assessment Quiz")
