@@ -403,4 +403,4 @@ st.markdown("<br><br>", unsafe_allow_html=True)
 
 # Footer
 st.markdown("<hr>", unsafe_allow_html=True)
-st.markdown("Made with ❤️ by Your Name. All rights reserved.", unsafe_allow_html=True)
+st.markdown("Made with ❤️ by Rejoice Osei. All rights reserved.", unsafe_allow_html=True)
